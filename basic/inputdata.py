@@ -1,0 +1,5 @@
+name=input("enter your name")
+place=input("enter your place")
+college=input("enter your college")
+regnumber=input("enter your register num")
+print(name,place,college,regnumber)

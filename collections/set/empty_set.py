@@ -1,0 +1,7 @@
+s1=set()
+s1.add(7)
+s1.add(5)
+s1.add(True)
+s1.add(3.5)
+print(s1)
+print(type(s1))

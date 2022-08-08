@@ -1,0 +1,1 @@
+print(4,"\nhello","\n",True,"\n",8.9)
